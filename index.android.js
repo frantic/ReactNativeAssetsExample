@@ -1,6 +1,6 @@
 'use strict';
 
 var { AppRegistry } = require('react-native');
-var FluxView = require('./FluxView');
+var ReactIconView = require('./ReactIconView');
 
-AppRegistry.registerComponent('ReactNativeAssetsExample', () => FluxView);
+AppRegistry.registerComponent('ReactNativeAssetsExample', () => ReactIconView);
