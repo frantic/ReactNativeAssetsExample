@@ -27,3 +27,15 @@ cd ReactNativeAssetsExample/
 npm install
 ```
 
+### On iOS
+
+```sh
+open ios/ReactNativeAssetsExample.xcodeproj
+```
+
+### On Android
+
+```sh
+react-native run-android
+```
+
