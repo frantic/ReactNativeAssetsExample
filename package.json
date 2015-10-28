@@ -6,6 +6,6 @@
     "start": "node_modules/react-native/packager/packager.sh"
   },
   "dependencies": {
-    "react-native": "facebook/react-native#d03bf21"
+    "react-native": "facebook/react-native#v0.14.0-rc"
   }
 }
